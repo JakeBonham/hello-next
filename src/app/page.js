@@ -4,7 +4,7 @@ function Home() {
   return (
     <main>
       <h1>Hello Next!</h1>
-      
+      <a href="/about">About</a>
     </main>
   );
 }
